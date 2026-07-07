@@ -5,4 +5,3 @@ This repository is to store my progress on this tutorial: [Building an Applicati
 This project uses the maven build tool. Relevant commands:
 - ./mvnw spring-boot:run (running the application)
 - curl http://localhost:8080 (running the service with curl)
-- s
